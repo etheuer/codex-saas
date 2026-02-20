@@ -58,4 +58,5 @@ python -m unittest discover -s tests -p 'test_*.py' -v
 - ✅ Selected a clear niche and unmet need.
 - ✅ Built a working MVP users can try immediately.
 - ✅ Prepared execution-ready GTM assets to start customer acquisition.
+- ✅ Added a full GTM strategy document for 90-day execution in `go_to_market/go_to_market_document.md`.
 - ⏳ Real-world customer conversion requires external execution (outreach/sales), which is prepared in `go_to_market/`.
